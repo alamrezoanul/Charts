@@ -18,6 +18,7 @@
     NSArray *parties;
 }
 
+#pragma mark - Design Objects
 @property (nonatomic, strong) IBOutlet UIButton *optionsButton;
 @property (nonatomic, strong) IBOutlet NSArray *options;
 
